@@ -1,3 +1,2 @@
 # Model weights are distributed via GitHub Releases, not versioned in Git
-models/*
-!models/.gitkeep
+models/
