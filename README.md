@@ -152,9 +152,10 @@ pip install -r requirements.txt
 
 The trained models are not included in this repository due to their size (~1.5 GB); they
 are distributed as a `models.zip` asset attached to a
-[GitHub Release](https://github.com/Sarasidri/ML_test_algorithm_for_CHEFS/releases/v1.0). Download it and
+[GitHub Release](https://github.com/Sarasidri/ML_test_algorithm_for_CHEFS/releases/tag/v1.0). Download it and
 extract it into a `models/` folder next to `gui.py` — not flattened into the repository
 root.
+> For Windows users: Make sure to run this in **PowerShell**, not Command Prompt (cmd) — `Invoke-WebRequest` and `Expand-Archive` are PowerShell-only cmdlets. On Windows 10/11 you can open it by searching "PowerShell" in the Start menu, then navigate to the repository folder (the one containing `gui.py`) before running the commands below.
 
 - **Windows (PowerShell):**
   ```powershell
@@ -174,7 +175,7 @@ root.
   ```
 
 Alternatively, download `models.zip` manually from the
-[Releases page](https://github.com/Sarasidri/ML_test_algorithm_for_CHEFS/releases/v1.0) and extract it yourself using
+[Releases page](https://github.com/Sarasidri/ML_test_algorithm_for_CHEFS/releases/tag/v1.0) and extract it yourself using
 your OS's archive tool (in that case, on Windows, right-click the file and choose
 "Extract All...", making sure the destination folder is named `models`).
 
