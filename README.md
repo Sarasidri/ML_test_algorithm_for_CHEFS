@@ -61,7 +61,7 @@ downloaded and unzipped before the first run (see [Installation](#installation))
 │
 ├── models/                    # NOT in the repo — download & unzip here (see Installation)
 │   ├── model1.pkl ... modelN.pkl
-│   ├── meta_model.pkl (or meta_model.txt)
+│   ├── meta_model.pkl
 │   └── meta_model_metadata.pkl
 ├── encoders/
 │   ├── features_encoder.pkl
