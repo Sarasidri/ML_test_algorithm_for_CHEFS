@@ -38,6 +38,7 @@ If you use this tool or refer to the underlying data, please cite the paper abov
   publisher={Elsevier}
 }
 ```
+The official CHEFS database repository, including the scripts used to build it, is available at: https://github.com/WFSRDataScience/CHEFS
 
 ## Repository structure
 
