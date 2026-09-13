@@ -87,6 +87,10 @@ git clone <repository-url>
 cd <repository-folder>
 ```
 
+> **Don't have Git installed?** On the repository's GitHub page, click the green **Code**
+> button → **Download ZIP**, then extract it and open a terminal in that folder instead.
+> Every step below works exactly the same either way — none of them depend on Git.
+
 ### 2. Create a virtual environment
 
 ```bash
@@ -120,23 +124,23 @@ pip install -r requirements.txt
 
 The trained models are not included in this repository due to their size (~1.5 GB); they
 are distributed as a `models.zip` asset attached to a
-[GitHub Release](https://github.com/<user>/<repo>/releases/tag/v1.0). Download it and
+[GitHub Release](https://github.com/Sarasidri/ML_test_algorithm_for_CHEFS/releases/download/v1.0/models.zip). Download it and
 extract it into a `models/` folder next to `gui.py` — not flattened into the repository
 root.
 
 - **Windows (PowerShell):**
   ```powershell
-  Invoke-WebRequest -Uri "https://github.com/<user>/<repo>/releases/download/v1.0/models.zip" -OutFile "models.zip"
+  Invoke-WebRequest -Uri "https://github.com/Sarasidri/ML_test_algorithm_for_CHEFS/releases/download/v1.0/models.zip" -OutFile "models.zip"
   Expand-Archive -Path models.zip -DestinationPath models
   ```
 - **macOS / Linux:**
   ```bash
-  curl -L -o models.zip https://github.com/<user>/<repo>/releases/download/v1.0/models.zip
+  curl -L -o models.zip https://github.com/Sarasidri/ML_test_algorithm_for_CHEFS/releases/download/v1.0/models.zip
   unzip models.zip -d models
   ```
 
 Alternatively, download `models.zip` manually from the
-[Releases page](https://github.com/<user>/<repo>/releases) and extract it yourself using
+[Releases page](https://github.com/Sarasidri/ML_test_algorithm_for_CHEFS/releases/download/v1.0/models.zip) and extract it yourself using
 your OS's archive tool (in that case, on Windows, right-click the file and choose
 "Extract All...", making sure the destination folder is named `models`).
 
