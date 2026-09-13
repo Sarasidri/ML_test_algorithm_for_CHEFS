@@ -12,6 +12,33 @@ correct.
 The full pipeline is illustrated below:
 ![CHEFS data pipeline and chemical hazard ranking: pre-processing, a nine-classifier ensemble partitioned via CMI, and a LightGBM meta-model for final prediction](./imgs/HiP_Stack_pipeline.png)
 
+## Data source
+
+The base classifiers and meta-model were trained on data from the **CompreHensive
+European Food Safety (CHEFS) database**, which consolidates EFSA food safety monitoring
+data (pesticide residues, veterinary medicinal product residues, and chemical
+contaminants) into a single structured dataset:
+
+> Kızılılsoley, N., van Meer, F., Mutlu, O., Hoenderdaal, W., Hobé, R., Mu, W., Gerssen, A.,
+> van der Fels-Klerx, H.J., Jóźwiak, Á., Manikas, I., et al. (2026). Food safety trends
+> across Europe: insights from the 392-million-entry CompreHensive European Food Safety
+> (CHEFS) database. *Food Control*, *182*, 111816.
+> [https://doi.org/10.1016/j.foodcont.2025.111816](https://doi.org/10.1016/j.foodcont.2025.111816)
+
+If you use this tool or refer to the underlying data, please cite the paper above:
+
+```bibtex
+@article{kizililsoley2026food,
+  title={Food safety trends across Europe: insights from the 392-million-entry CompreHensive European Food Safety (CHEFS) database},
+  author={K{\i}z{\i}lilsoley, Nehir and van Meer, Floor and Mutlu, Osman and Hoenderdaal, Wouter and Hob{\'e}, Rosan and Mu, Wenjuan and Gerssen, Arjen and van der Fels-Klerx, HJ and J{\'o}{\'z}wiak, {\'A}kos and Manikas, Ioannis and others},
+  journal={Food Control},
+  volume={182},
+  pages={111816},
+  year={2026},
+  publisher={Elsevier}
+}
+```
+
 ## Repository structure
 
 Everything below is included in this repository, **except** the trained base models and
