@@ -1,0 +1,35 @@
+aquaculture
+bee hives
+border control
+breeding
+canteen
+cold storage
+conservation facilities
+cutting plant
+farm
+fish freezing
+fishing and fish processing
+game handling establishment
+growing crops
+hunting
+import activities
+manufacturing feedingstuffs
+meat mincing
+meat processing
+mechanical separation of meat
+mobile retailer
+packing centre
+primary production
+processing activities
+rearing of animals
+restaurant or cafe or pub or bar or hotel or catering service
+retail
+rewrapping centre
+slaughterhouse
+storage
+transport
+unknown
+veterinary activities
+water collection or treatment or supply
+wholesale
+wholesale and retail sale

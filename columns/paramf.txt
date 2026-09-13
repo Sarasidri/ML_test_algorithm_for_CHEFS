@@ -1,0 +1,63 @@
+alcohol
+alkaloid
+aromatic hydrocarbons
+aromatic lactones
+bacterial toxins
+biogenic amines
+bisphenol glycidyl ethers
+carbamates esters
+chlorinated paraffins
+chlorinated pesticide
+chloropropanol
+citrate esters
+ergot alkaloid
+fatty acids
+glycidyl ester derivatives
+halides
+halogenated hydrocarbons
+halogens
+heterocyclic aromatic compounds
+heterocyclic carboxylic acids
+inorganic arsenic compounds
+inorganic cation
+inorganic compounds
+inorganic ions
+inorganic oxides
+inorganic oxyanions
+marine biotoxins
+metal
+mycotoxins
+nitrosamine
+organic arsenic compounds
+organic compounds
+organic mercury
+organochlorine compounds
+organochlorine pesticides
+organometallic compounds
+organotin compounds
+pahs derivants
+pbdd
+pbdes
+pbdf
+pcb
+pcdd
+pcdf
+pcn
+pfas
+phenylpropanoids
+phthalates
+phthalic esters
+phytocannabinoids
+polybrominated aliphatic compounds
+polycyclic aromatic hydrocarbons
+polyketide
+pyrrolizidine alkaloid
+quaternary ammonium compounds
+quinolizidine alkaloid
+sebacate esters
+steroidal alkaloid
+steroidal glycoalkaloid
+succinate esters
+triazine derivative
+tropane alkaloid
+unsaturated amide

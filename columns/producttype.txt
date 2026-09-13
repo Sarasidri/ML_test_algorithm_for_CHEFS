@@ -1,0 +1,550 @@
+alchoholic drink
+alfalfa
+algae
+allspice
+almond
+aloe vera
+amaranth
+amberjack
+anchovie
+anglerfish
+animal
+anise
+apple
+apricot
+aromatic herb
+artichoke
+asiago
+asparagus
+aubergine
+avocado
+baffalo
+balm
+banana
+barley
+barley coffee
+barracuda
+basil
+bay leaf
+bean
+bean and meat
+bechamel
+bee
+beef
+beef and pork
+beer
+beetroot
+berry
+biscuit
+bivalve mollusc
+blackberry
+blood
+blueberry
+bogue
+bonito
+borage
+bran
+brazil nut
+bread
+breadcrumb
+bream
+brie
+brill
+brioche
+broad bean
+broccoli
+brussel sprout
+buckwheat
+bulgur
+butter
+buttermilk
+cabbage
+caciocavallo
+cake
+camembert
+candy
+cane sugar
+carambolas
+caraway
+cardamom
+carob
+carp
+carrot
+cashew nut
+casing
+cassava
+catfish
+cauliflower
+celeriac
+celery
+cephalopod
+ceps
+cereal
+cereal bread
+cereal with added protein
+chamomile
+chanterelle
+char
+chard
+cheddar
+cheese
+cheese cake
+cherry
+chesse
+chestnut
+chewing gum
+chia
+chicken
+chickpeas
+chicorie
+chicory coffee
+chili pepper
+chinotto
+chips
+chives
+choccolate
+chocolate
+chocolate cake
+chocolate spread
+choux pastry
+chutney
+cider
+cinnamon
+clam
+clementine
+clove
+coalfish
+cockles
+cocoa
+cocoa butter
+cocoa mass
+coconut
+cod
+coffee
+coffee bean
+coffee ground
+coffee powder
+cola
+confectionery
+coriander
+courgette
+couscous
+cow
+crab
+cracker
+cranberry
+cream
+cream cheese
+crisp bread
+croissant
+cucumber
+currant
+curry
+custard
+cuttlefish
+cyprinids
+dates
+deer
+dentex
+dill
+dolphinfish
+doughnut
+duck
+dulse
+eel
+egg pasta
+elderberry
+emmental
+escarole
+fat
+fat and oil
+fennel
+fenugreek
+fermented milk
+feta
+fiber
+field bean
+figs
+fish
+fish and potato
+fish and vegetable
+flakes
+flounder
+fonio
+fontina
+french bean
+fruit
+fruit and vegetable
+fruit cake
+fruit chips
+fruit liqueur
+functional drink
+garden peas
+garfish
+garlic
+gastropod
+gelatine
+ghee
+gherkin
+gin
+ginger
+gingerbread
+gluten
+goat
+gojiberry
+goose
+gooseberry
+gorgonzola
+gouda
+grana padano
+grape
+grape leaf
+grapefruit
+grouper
+guinea fowl
+haddock
+hake
+halibut
+halva
+hare
+harring
+hazelnut
+head cabbage
+head cheese
+hemp
+herb
+herb and spices
+herbal
+herring
+hibiscus
+honey
+hops
+horse
+horse 
+horse mackerel
+horseradish
+huckleberry
+ice
+ice cream
+insect
+isotonic drink
+jam
+juice
+kaki
+kefir
+ketchup
+kiwi
+kohlrabi
+kombu
+lactose
+lamb
+lamb's lettuce
+lamprey
+lard
+laver
+leek
+legume
+lemon
+lemon balm
+lemongrass
+lentil
+lettuce
+lettuuce
+lime
+lime flower
+limpet
+ling
+linseed
+liqueur
+liquorice
+litchi
+liver
+lobster
+lovage
+lupin
+macadamia
+macaroon
+mackerel
+maize
+maize chips
+maize porridge
+mallard
+malt
+malt coffee
+mandarin
+mango
+margarine
+marjoram
+marzipan
+mascarpone
+mayonnaise
+meal
+meat
+meat and rice and vegetable
+meat and vegetable
+meat ball
+medlar
+megrim
+melon
+miaze
+milk
+millet
+mint
+mix for cake
+molasses
+mollusc
+moose
+mortadella
+mozzarella
+muffin
+mufflon
+mulberry
+mullet
+mung bean
+mushroom
+muslei
+mussel
+mustard
+navy bean
+nectarine
+nigella
+noodle
+northern pike
+nougat
+nut
+nut and seed
+nut mass
+nutmeg
+oat
+octopus
+oil and fat
+oilseed
+okra
+olive
+onion
+onion bulb
+orange
+oregano
+ostrich
+ovine
+oyster
+pak choi
+palm
+pancake
+pancetta
+pangas catfishes
+papaya
+paprika
+parmigiano reggiano
+parsley
+parsnip
+passion fruit
+pasta
+peach
+peanut
+pear
+peas
+pecan
+pecorino
+pecorino romano
+pepper
+peppermint
+peppers
+perch
+pesto
+pheasant
+pig
+pike
+pike perch
+pine nut
+pineapple
+pistachios
+pita
+pizza
+plaice
+plant oil
+plum
+poatato
+pollen
+polydextrose
+pomegranate
+pomelo
+pomfret fish
+popcorn
+porbeagle
+pork
+porridge
+potato
+potato and rice
+potato chips
+potato powder
+poultry
+praline
+prawn
+pretzel
+prickly pear
+provolone
+puffed bread
+puffed maize bread
+puffed rice bread
+puffed wheat bread
+pumpkin
+quail
+quark
+quince
+quinoa
+rabbit
+radicchio
+radish
+raisins
+rapeseed
+raspberry
+ratites
+reindeer
+rhubarb
+rice
+rice and vegetable
+ricotta
+roaches
+rock rose
+roe deer
+roesti
+roman rocket
+rooibos
+roquefort
+rose
+rosemary
+rum
+rusk
+rye
+rye and weat bread
+rye bread
+rye crisp bread
+safflower
+saffron
+sage
+salad
+salami
+salmon
+salt
+sangria
+sant john
+sardine
+sardinella
+satsuma
+sauce
+sauerkraut
+sausage
+savoy cabbage
+scallop
+scamorza
+scones
+sea lettuce
+sea urchin
+seabass
+seafood
+seasoning
+seed
+semolina
+sesame
+shandy
+shark
+sheep
+sherry
+shiitake
+shortcrust
+shrimp
+shrimp and prawn
+snack
+snail
+snapper
+soft drink
+sole
+sorghum
+soup
+sour cherry
+sour cream
+soy
+speck
+spelt
+spices
+spiny dogfish
+spirit
+spirulina
+sprat fish
+spring onion
+squid
+starchy pudding
+stock cube
+strawberry
+sturgeon
+sugar
+sugar beet syrup
+sugar beetroot
+summer squash
+sunflower
+sunflower 
+sweet pepper
+sweet potato
+swiss chard
+swordfish
+syrup
+tahini
+tapioca
+tarragon
+tea
+tea beverage
+tea leaf
+tea powder
+teff
+tench
+thyme
+tigernut
+tilapia
+tofu
+tomato
+tortilla
+tree nut
+trout
+tuna
+turbot
+turkey
+turmenic
+turmeric root
+turnip
+unleavened bread
+unsweetened spirit
+vegetable
+vermouth
+vervain
+vinegar
+vitamin and mineral
+vodka
+wafer
+waffle
+wakame
+walnut
+water
+water spinach
+watermelon
+weat
+wheat
+wheat and maize bread
+wheat and potato bread
+wheat and rye bread
+wheat bread
+wheat coffee
+wheat crisp bread
+whey
+whisky
+whitefish
+whiting
+wild boar
+wine
+wine like
+witch flounder
+witloof
+wolffish
+yeast
+yellowtail flounder
+yoghurt
