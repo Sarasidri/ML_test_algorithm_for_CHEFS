@@ -44,7 +44,7 @@ The official CHEFS database repository, including the scripts used to build it, 
 
 Everything below is included in this repository, **except** the trained base models and
 meta-model, which are distributed separately as a `models.zip` archive attached to a
-[GitHub Release](https://github.com/<user>/<repo>/releases) due to their size, and must be
+[GitHub Release](https://github.com/Sarasidri/ML_test_algorithm_for_CHEFS/releases/tag/v1.0) due to their size, and must be
 downloaded and unzipped before the first run (see [Installation](#installation)).
 
 ```
