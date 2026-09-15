@@ -1,4 +1,4 @@
-# Chemical Hazard Prediction GUI
+# Chemical Hazard Classification GUI
 
 A lightweight desktop application for running single-sample inference with a trained
 ensemble-of-classifiers + meta-model pipeline for chemical hazard classification in
